@@ -1,7 +1,5 @@
 # Simple User REST API (Node.js & Express)
 
-Ini adalah sebuah REST API sederhana yang dibangun menggunakan **Node.js** dan **Express** untuk mengelola data pengguna. Proyek ini berfungsi sebagai contoh implementasi API dasar yang mencakup routing, controller, validasi input, dan deployment.
-
 API ini di-hosting secara gratis menggunakan **Vercel** dan dapat diakses secara publik.
 
 **🚀 Live API URL**: https://node-rest-api-javan.vercel.app/
@@ -42,7 +40,7 @@ Untuk menjalankan proyek ini di komputer Anda, ikuti langkah-langkah berikut:
 
 ---
 
-## 📖 Dokumentasi Endpoint API
+## Dokumentasi Endpoint API
 
 Semua endpoint berawal dari `/users`.
 
