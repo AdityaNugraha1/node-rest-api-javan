@@ -10,7 +10,7 @@ app.use(express.json());
 app.get('/', (req, res) => {
     res.status(200).json({
         status: 'success',
-        message: 'Welcome to the Simple User API!'
+        message: 'Selamat Datang'
     });
 });
 
